@@ -13,33 +13,22 @@ pkg update && pkg upgrade -y
 ```
 pkg install git -y
 ```
-3. Clone this repo
+3. install python
+pkg install python
+```
+4. Clone this repo
 ```
 git clone https://github.com/purplemashu/me-cli
 ```
-4. Open the folder
+5. Open the folder
 ```
 cd me-cli
 ```
-5. Setup
+6. Setup
 ```
 bash setup.sh
 ```
-6. Run the script
+7. Run the script
 ```
 python main.py
 ```
-
-# Info
-
-## PS for Certain Indonesian mobile internet service provider
-
-Instead of just delisting the package from the app, ensure the user cannot purchase it.
-What's the point of strong client side security when the server don't enforce it?
-
-## Terms of Service
-By using this tool, the user agrees to comply with all applicable laws and regulations and to release the developer from any and all claims arising from its use.
-
-## Contact
-
-contact@mashu.lol
