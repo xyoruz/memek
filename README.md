@@ -2,8 +2,6 @@
 
 ![banner](images.jpeg)
 
-CLI client for a certain Indonesian mobile internet service provider.
-
 # How to run with TERMUX
 1. Update & Upgrade Termux
 ```
