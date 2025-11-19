@@ -33,7 +33,11 @@ pip install -r requirements.txt
 ```
 bash setup.sh
 ```
-8. Run the script
+8. git pull
+```
+git pull --rebase to update
+```
+9. Run the script
 ```
 python main.py
 ```
