@@ -25,11 +25,15 @@ git clone https://github.com/purplemashu/me-cli
 ```
 cd me-cli
 ```
-6. Setup
+6. pip install
+```
+pip install -r requirements.txt
+```
+7. Setup
 ```
 bash setup.sh
 ```
-7. Run the script
+8. Run the script
 ```
 python main.py
 ```
