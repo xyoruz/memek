@@ -31,11 +31,15 @@ pip install -r requirements.txt
 ```
 bash setup.sh
 ```
-8. git pull
+8. buat folder .env di termux
+```
+nano .env
+```
+9. git pull
 ```
 git pull --rebase to update
 ```
-9. Run the script
+10. Run the script
 ```
 python main.py
 ```
