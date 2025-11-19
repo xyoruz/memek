@@ -15,6 +15,10 @@ pkg install git -y
 ```
 pkg install python
 ```
+## lanjut
+```
+apt install python-pillow
+```
 4. Clone this repo
 ```
 git clone https://github.com/xyoruz/memek
