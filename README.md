@@ -14,6 +14,7 @@ pkg update && pkg upgrade -y
 pkg install git -y
 ```
 3. install python
+```
 pkg install python
 ```
 4. Clone this repo
