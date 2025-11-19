@@ -15,9 +15,13 @@ pkg install git -y
 ```
 pkg install python
 ```
-## lanjut
+## install ini juga
 ```
 apt install python-pillow
+```
+## instal ini juga
+```
+pip install colorama
 ```
 4. Clone this repo
 ```
