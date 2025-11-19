@@ -31,19 +31,15 @@ git clone https://github.com/xyoruz/memek
 ```
 cd me-cli
 ```
-6. pip install
-```
-pip install -r requirements.txt
-```
-7. Setup
+6. Setup
 ```
 bash setup.sh
 ```
-8. buat folder .env di termux
+7. buat folder .env di termux
 ```
 nano .env
 ```
-9. Run the script
+8. Run the script
 ```
 python main.py
 ```
