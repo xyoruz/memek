@@ -1,6 +1,6 @@
 
 
-![banner](bnr.png)
+![banner]([bnr.png](https://raw.githubusercontent.com/xyoruz/memek/refs/heads/main/images.jpeg))
 
 CLI client for a certain Indonesian mobile internet service provider.
 
