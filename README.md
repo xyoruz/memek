@@ -39,11 +39,7 @@ bash setup.sh
 ```
 nano .env
 ```
-9. git pull
-```
-git pull --rebase to update
-```
-10. Run the script
+9. Run the script
 ```
 python main.py
 ```
