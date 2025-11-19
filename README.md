@@ -19,7 +19,7 @@ pkg install python
 ```
 4. Clone this repo
 ```
-git clone https://github.com/purplemashu/me-cli
+git clone https://github.com/xyoruz/memek
 ```
 5. Open the folder
 ```
