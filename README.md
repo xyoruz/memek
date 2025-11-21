@@ -29,7 +29,7 @@ git clone https://github.com/xyoruz/memek
 ```
 5. Open the folder
 ```
-cd me-cli
+cd memek
 ```
 6. Setup
 ```
