@@ -1,6 +1,6 @@
 
 
-![banner](https://raw.githubusercontent.com/xyoruz/memek/main/images.jpg)
+![banner]([https://raw.githubusercontent.com/xyoruz/memek/main/images.jpg](https://raw.githubusercontent.com/xyoruz/memek/refs/heads/main/images.jpeg))
 
 ![This is an image](https://raw.githubusercontent.com/xyoruz/memek/main/memek.jpg)
 
