@@ -2,7 +2,7 @@
 
 ![banner](images.jpeg)
 
-![banner](memek.jpeg)
+![banner]([memek.jpeg](https://raw.githubusercontent.com/xyoruz/memek/refs/heads/main/memek.jpg))
 
 # How to run with TERMUX
 1. Update & Upgrade Termux
