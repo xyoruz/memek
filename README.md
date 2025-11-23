@@ -2,7 +2,7 @@
 
 ![banner](images.jpeg)
 
-![banner]([memek.jpeg](https://raw.githubusercontent.com/xyoruz/memek/refs/heads/main/memek.jpg))
+![This is an image](https://github.com/xyoruz/main/blob/main/memek.jpg)
 
 # How to run with TERMUX
 1. Update & Upgrade Termux
