@@ -1,7 +1,7 @@
 
 
 ![banner](https://raw.githubusercontent.com/xyoruz/memek/main/images.jpeg)
-![This is an image](https://raw.githubusercontent.com/xyoruz/memek/main/memek.jpeg)
+![This is an image](https://raw.githubusercontent.com/xyoruz/memek/main/memek.jpg)
 
 # How to run with TERMUX
 1. Update & Upgrade Termux
