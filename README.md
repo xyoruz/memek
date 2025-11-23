@@ -1,8 +1,8 @@
 
 
-![banner](images.jpeg)
+![banner](https://raw.githubusercontent.com/xyoruz/memek/main/memek.jpg)
 
-![This is an image](https://github.com/xyoruz/main/blob/main/memek.jpg)
+![This is an image](https://raw.githubusercontent.com/xyoruz/memek/main/memek.jpg)
 
 # How to run with TERMUX
 1. Update & Upgrade Termux
