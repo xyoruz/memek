@@ -22,7 +22,7 @@ def show_hot_menu():
         print("🔥 Paket  Hot 🔥".center(WIDTH))
         print("=" * WIDTH)
         
-        url = "https://me.mashu.lol/pg-hot.json"
+        url = "https://raw.githubusercontent.com/xyoruz/izinvps/refs/heads/ipuk/Hot.josn"
         response = requests.get(url, timeout=30)
         if response.status_code != 200:
             print("Gagal mengambil data hot package.")
