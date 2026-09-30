@@ -1,12 +1,4 @@
-"""
-Bot Telegram Dor XL v2 - login nomor MyXL + OTP dulu, baru bisa masuk menu.
-Taruh di root folder me-cli (sejajar main.py), jalankan: python bot_dor_v2.py
-.env tambahan:  BOT_TOKEN=xxx   (opsional) ADMIN_IDS=id1,id2   (opsional) TG_PROXY=...
-  - ADMIN_IDS diisi  -> hanya ID Telegram itu yang bisa memakai bot
-  - ADMIN_IDS kosong -> siapa pun boleh, tapi WAJIB login nomor MyXL + OTP sendiri
-Sesi tiap pengguna disimpan di bot_sessions.json (berisi refresh token, JANGAN dibagikan).
-Semua pembayaran memakai harga asli paket.
-"""
+
 import os, io, json, time, asyncio, logging, threading
 from collections import defaultdict
 from datetime import datetime
