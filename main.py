@@ -67,6 +67,7 @@ def show_main_menu(profile):
 {CY}[05]{WT} Beli Option Code      {CY}[12]{WT} Store Family List
 {CY}[06]{WT} Beli Family Code      {CY}[13]{WT} Store Packages
 {CY}[07]{WT} Auto-Buy Family       {CY}[14]{WT} Redeemables
+{CY}[15]{WT} Auto-Buy Dor
 
 {GR}[R]{WT}  Register              {GR}[N]{WT}  Notifikasi
 {GR}[V]{WT}  Validate MSISDN       {RD}[99]{WT} Keluar Aplikasi
@@ -194,6 +195,8 @@ def main():
             elif choice == "14":
                 is_enterprise = input("Is enterprise? (y/n): ").lower() == 'y'
                 show_redeemables_menu(is_enterprise)
+            elif choice in ("15", "15"):
+                show_Dor_menu()
 
             elif choice == "00":
                 show_bookmark_menu()
