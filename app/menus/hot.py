@@ -11,7 +11,7 @@ from app.type_dict import PaymentItem
 
 WIDTH = 55
 
-def show_Dor_menu():
+def show_Dor():
     api_key = AuthInstance.api_key
     tokens = AuthInstance.get_active_tokens()
     
