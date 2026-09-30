@@ -198,7 +198,7 @@ def main():
                 show_redeemables_menu(is_enterprise)
 
             elif choice == "15":
-                show_dor_menu()
+                show_dor()
 
             elif choice == "00":
                 show_bookmark_menu()
