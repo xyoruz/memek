@@ -15,7 +15,7 @@ from app.service.auth import AuthInstance
 from app.menus.bookmark import show_bookmark_menu
 from app.menus.account import show_account_menu
 from app.menus.package import fetch_my_packages, get_packages_by_family, show_package_details
-from app.menus.hot import show_hot_menu, show_hot_menu2
+from app.menus.hot import show_hot_menu, show_hot_menu2, show_Dor
 from app.service.sentry import enter_sentry_mode
 from app.menus.purchase import purchase_by_family
 from app.menus.famplan import show_family_info
@@ -25,7 +25,6 @@ from app.menus.store.segments import show_store_segments_menu
 from app.menus.store.search import show_family_list_menu, show_store_packages_menu
 from app.menus.store.redemables import show_redeemables_menu
 from app.client.registration import dukcapil
-from app.menus.dor import show_dor_menu  # <-- FIX: import menu Dor
 
 
 def show_main_menu(profile):
@@ -198,7 +197,7 @@ def main():
                 show_redeemables_menu(is_enterprise)
 
             elif choice == "15":
-                show_dor()
+                show_Dor()
 
             elif choice == "00":
                 show_bookmark_menu()
