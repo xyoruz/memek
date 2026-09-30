@@ -19,10 +19,10 @@ def show_Dor():
     while in_bookmark_menu:
         clear_screen()
         print("=" * WIDTH)
-        print("🔥 Paket  Hot 🔥".center(WIDTH))
+        print("🔥 Dor 🔥".center(WIDTH))
         print("=" * WIDTH)
         
-        url = "https://raw.githubusercontent.com/xyoruz/izinvps/refs/heads/ipuk/Dor.josn"
+        url = "https://raw.githubusercontent.com/xyoruz/izinvps/refs/heads/ipuk/Dor.json"
         response = requests.get(url, timeout=30)
         if response.status_code != 200:
             print("Gagal mengambil data hot package.")
